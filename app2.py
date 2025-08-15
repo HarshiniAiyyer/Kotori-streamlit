@@ -1,6 +1,10 @@
 import streamlit as st
 import os
 from pathlib import Path
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
+
 from dotenv import load_dotenv
 from kotori_graph import build_kotori_graph
 
