@@ -1,6 +1,8 @@
 # Kotori.ai - Streamlit Application
 
 > **Your Compassionate Companion for Empty Nest Syndrome**
+>
+> ![Logo](assets/images/image.png)
 
 Kotori.ai is an AI-powered web application built with Streamlit that provides emotional support, practical suggestions, and guidance for parents experiencing Empty Nest Syndrome. This application uses advanced NLP models and a multi-agent architecture to deliver personalized, empathetic responses.
 
