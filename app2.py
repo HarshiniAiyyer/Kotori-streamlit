@@ -649,7 +649,7 @@ col1, col2, col3 = st.columns([1, 1, 1])
 with col1:
     st.markdown('''
     <div style="text-align: center;">
-        <a href="mailto:team@kotori.ai" title="Email Us" style="text-decoration: none;">
+        <a href="mailto:team@harshini.k.aiyyer@gmail.com" title="Email Us" style="text-decoration: none;">
             <div style="display: inline-block; width: 55px; height: 55px; border-radius: 50%; background: linear-gradient(135deg, #5a7ba8 0%, #4a6590 100%); color: white; text-align: center; line-height: 55px; font-size: 24px; box-shadow: 0 4px 12px rgba(90, 123, 168, 0.3); transition: all 0.3s ease; cursor: pointer;">
                 ✉️
             </div>
@@ -661,7 +661,7 @@ with col1:
 with col2:
     st.markdown('''
     <div style="text-align: center;">
-        <a href="https://linkedin.com/company/kotori-ai" title="LinkedIn" target="_blank" style="text-decoration: none;">
+        <a href="https://www.linkedin.com/in/harshini-a-29870b342/" title="LinkedIn" target="_blank" style="text-decoration: none;">
             <div style="display: inline-block; width: 55px; height: 55px; border-radius: 50%; background: linear-gradient(135deg, #0077b5 0%, #005885 100%); color: white; text-align: center; line-height: 55px; font-size: 24px; box-shadow: 0 4px 12px rgba(0, 119, 181, 0.3); transition: all 0.3s ease; cursor: pointer;">
                 💼
             </div>
@@ -673,7 +673,7 @@ with col2:
 with col3:
     st.markdown('''
     <div style="text-align: center;">
-        <a href="https://github.com/kotori-ai" title="GitHub" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/HarshiniAiyyer" title="GitHub" target="_blank" style="text-decoration: none;">
             <div style="display: inline-block; width: 55px; height: 55px; border-radius: 50%; background: linear-gradient(135deg, #333 0%, #24292e 100%); color: white; text-align: center; line-height: 55px; font-size: 24px; box-shadow: 0 4px 12px rgba(51, 51, 51, 0.3); transition: all 0.3s ease; cursor: pointer;">
                 🐱
             </div>
