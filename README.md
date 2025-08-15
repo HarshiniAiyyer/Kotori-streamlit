@@ -70,6 +70,11 @@ Kotori.ai uses a sophisticated multi-agent architecture powered by LangGraph to 
 - **Vector Database**: ChromaDB
 - **Configuration**: Python-dotenv, pathlib
 
+## Site Preview
+
+![Site](assets/images/foto.png)
+
+
 ## 📁 Project Structure
 
 ```
