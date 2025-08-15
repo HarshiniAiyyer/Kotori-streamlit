@@ -11,6 +11,7 @@ huggingface-hub>=0.17.0
 python-dotenv>=1.0.0
 numpy>=1.24.0
 pandas>=2.0.0
+pysqlite3-binary
 requests>=2.31.0
 pathlib2>=2.3.7; python_version < "3.4"
 faiss-cpu>=1.7.4
